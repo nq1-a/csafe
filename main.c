@@ -1,4 +1,4 @@
-#include "csafe.h"
+#include "csafe/csafe.h"
 
 int main() {
     dbuf buf = dbuf_new(2);
