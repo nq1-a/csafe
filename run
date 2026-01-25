@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gcc -O2 -Wall main.c -o main
+chmod +rwx main
+./main
+rm main
